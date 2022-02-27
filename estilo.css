@@ -1,0 +1,30 @@
+body {
+    background: rgba(87, 155, 243, 0.966);
+    font: normal 20px Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.239);
+    padding: 10px;
+    margin: auto;
+    width: 500px;
+    
+}
+
+#lista {
+    width: 150px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    font-style: italic;
+}
